@@ -16,7 +16,7 @@
                 <div class="card-body">
                   <div class="card-body">
                   </div>
-                  <h3 class="text-center">Kakau Laundy</h3>
+                  <h3 class="text-center"><strong>Kakau Laundy</strong></h3>
                   <div class="card-body">
                   </div>
                   <div class="embed-responsive embed-responsive-16by9">
