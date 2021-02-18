@@ -54,11 +54,11 @@
     <!-- ===============================================-->
     <main class="main">
       <nav class="navbar navbar-expand-lg navbar-light bg-white py-4 pl-0">
-        <div class="container"><a class="navbar-brand text-primary font-weight-bold" href="home.php"> Kakau Laundry </a>
+        <div class="container"><a class="navbar-brand text-primary font-weight-bold" href="index.php"> Kakau Laundry </a>
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
           <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav ml-auto">
-              <li class="nav-item text-muted"><a class="nav-link active" aria-current="page" href="home.php">Home</a></li>
+              <li class="nav-item text-muted"><a class="nav-link active" aria-current="page" href="index.php">Home</a></li>
 
               <li class="nav-item dropdown"><a class="nav-link" id="navbarDropdown" href="#" role="button" data-toggle="dropdown" aria-expanded="false">Profil</a>
                 <ul class="dropdown-menu navbar-dropdown-menu" aria-labelledby="navbarDropdown">
