@@ -45,7 +45,7 @@
 
    <div style="position:fixed;left:20px;bottom:20px;">
       <a href="https://api.whatsapp.com/send?phone=+6281223606493&text=Halo">
-      <a class="btn btn-success  ml-auto hover-top-shadow" href="daftar-member.php"><h7> CHAT SEKARANG</h7></a>
+      <a class="btn btn-success  ml-auto hover-top-shadow" href="https://api.whatsapp.com/send?phone=+6281223606493&text=Halo"><h7> CHAT SEKARANG</h7></a>
       </a>
     </div>
 

@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/kakb7745/public_html/kodmo
+    - /bin/cp -R images $DEPLOYPATH
