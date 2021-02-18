@@ -16,7 +16,7 @@
                 <div class="card-body">
                   <div class="card-body">
                   </div>
-                  <h3 class="text-center">Simply Fresh Laundry – Waralaba Laundry Kiloan</h3>
+                  <h3 class="text-center">Kakau Laundy</h3>
                   <div class="card-body">
                   </div>
                   <div class="embed-responsive embed-responsive-16by9">
@@ -46,13 +46,13 @@
                                 <div class="card-body">
                                 <div class="row no-gutters">
                                   <div class="col-lg-6 order-lg-1 text-center">
-                                    <i class="icon far fa-comment m-auto fa-3x"></i>
+                                  <span class="text-primary"><i class="icon far fa-comment m-auto fa-3x" ></i></span>
                                     <p></p>
                                     <h5>Kontak Marketing</h5>
                                     <P>Nomor Kantor (0274) 6411333 / (0274) 6411322</P>
                                   </div>
                                   <div class="col-lg-6 order-lg-1 my-auto showcase-text text-center">
-                                    <i class="icon far fa-envelope m-auto fa-3x"></i>
+                                  <span class="text-primary"><i class="icon far fa-envelope m-auto fa-3x"></i></span>
                                     <p></p>
                                     <h5>Email</h5>
                                     <p>
@@ -66,14 +66,14 @@
                                 </div>
                                 <div class="row no-gutters">
                                   <div class="col-lg-6 order-lg-1 text-center">
-                                    <i class="icon fas fa-map-marker-alt m-auto fa-3x"></i>
+                                  <span class="text-primary"><i class="icon fas fa-map-marker-alt m-auto fa-3x"></i></span>
                                     <p></p>
                                     <h5>Kantor Pusat</h5>
                                     <P>Jl. Monjali No. 251, Mlati, Sleman
                                       Yogyakarta, 55284 Indonesia</P>
                                   </div>
                                   <div class="col-lg-6 order-lg-1 my-auto showcase-text text-center">
-                                    <i class="icon fas fa-store m-auto fa-3x"></i>
+                                  <span class="text-primary"><i class="icon fas fa-store m-auto fa-3x"></i></span>
                                     <p></p>
                                     <h5>Jam Operasional</h5>
                                     <p>
