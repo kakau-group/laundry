@@ -20,7 +20,7 @@
               <div class="accordion" id="accordionExample">
                 <div class="accordion-item">
                   <h2 class="accordion-header" id="headingOne">
-                    <button class="accordion-button" style="background-color: #0000FF;" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                    <button class="accordion-button" style="background-color: #0084ff;" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
                       <h5 style="color: #ffffff;" ><i class="fas fa-plus"></i>  Menggunakan konsep thaharah yang di syariatkan dalam pencucian</h5>
                     </button>
                   </h2>
@@ -31,7 +31,7 @@
                 </div>
                 <div class="accordion-item">
                   <h2 class="accordion-header" id="headingTwo">
-                    <button class="accordion-button collapsed" style="background-color: #0000FF;" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                    <button class="accordion-button collapsed" style="background-color: #0084ff;" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
                       <h5 style="color: #ffffff;"><i class="fas fa-plus"></i>  Menggunakan Teknologi Ultra Violet (Pertama di Indonesia)</h5>
                     </button>
                   </h2>
@@ -43,7 +43,7 @@
                 </div>
                 <div class="accordion-item">
                   <h2 class="accordion-header" id="headingThree">
-                    <button class="accordion-button collapsed" style="background-color: #0000FF;" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                    <button class="accordion-button collapsed" style="background-color: #0084ff;" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
                       <h5 style="color: #ffffff;"><i class="fas fa-plus"></i>  Mencuci Sesuai Washing Care Label</h5>
                     </button>
                   </h2>
@@ -55,7 +55,7 @@
                 </div>
                 <div class="accordion-item">
                   <h2 class="accordion-header" id="headingFour">
-                    <button class="accordion-button collapsed" style="background-color: #0000FF;" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseThree">
+                    <button class="accordion-button collapsed" style="background-color: #0084ff;" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseThree">
                       <h5 style="color: #ffffff;"><i class="fas fa-plus"></i>  Menggunakan konsep thaharah yang di syariatkan dalam pencucian</h5>
                     </button>
                   </h2>
@@ -67,7 +67,7 @@
                 </div>
                 <div class="accordion-item">
                   <h2 class="accordion-header" id="headingFive">
-                    <button class="accordion-button collapsed" style="background-color: #0000FF;" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseThree">
+                    <button class="accordion-button collapsed" style="background-color: #0084ff;" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseThree">
                       <h5 style="color: #ffffff;"><i class="fas fa-plus"></i>  Menggunakan Proses Filterisasi Air</h5>
                     </button>
                   </h2>
@@ -79,7 +79,7 @@
                 </div>
                 <div class="accordion-item">
                   <h2 class="accordion-header" id="headingSix">
-                    <button class="accordion-button collapsed" style="background-color: #0000FF;" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseThree">
+                    <button class="accordion-button collapsed" style="background-color: #0084ff;" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseThree">
                       <h5 style="color: #ffffff;"><i class="fas fa-plus"></i>  Adanya pelayanan cuci kilat “4 JAM JADI” (Pelopor di Indonesia)</h5>
                     </button>
                   </h2>
@@ -91,7 +91,7 @@
                 </div>
                 <div class="accordion-item">
                   <h2 class="accordion-header" id="headingSeven">
-                    <button class="accordion-button collapsed" style="background-color: #0000FF;" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
+                    <button class="accordion-button collapsed" style="background-color: #0084ff;" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
                       <h5 style="color: #ffffff;"><i class="fas fa-plus"></i>  Sistem pencatatan menggunakan komputer dengan program software yang dirancang khusus untuk laundry.</h5>
                     </button>
                   </h2>
@@ -103,7 +103,7 @@
                 </div>
                 <div class="accordion-item">
                   <h2 class="accordion-header" id="headingEight">
-                    <button class="accordion-button collapsed" style="background-color: #0000FF;" type="button" data-bs-toggle="collapse" data-bs-target="#collapseEight" aria-expanded="false" aria-controls="collapseEight">
+                    <button class="accordion-button collapsed" style="background-color: #0084ff;" type="button" data-bs-toggle="collapse" data-bs-target="#collapseEight" aria-expanded="false" aria-controls="collapseEight">
                       <h5 style="color: #ffffff;"><i class="fas fa-plus"></i>  Adanya pilihan pewangi pakaian sesuai dengan selera pelanggan (Pelopor di Indonesia)</h5>
                     </button>
                   </h2>
@@ -115,7 +115,7 @@
                 </div>
                 <div class="accordion-item">
                   <h2 class="accordion-header" id="headingNine">
-                    <button class="accordion-button collapsed" style="background-color: #0000FF;" type="button" data-bs-toggle="collapse" data-bs-target="#collapseNine" aria-expanded="false" aria-controls="collapseNine">
+                    <button class="accordion-button collapsed" style="background-color: #0084ff;" type="button" data-bs-toggle="collapse" data-bs-target="#collapseNine" aria-expanded="false" aria-controls="collapseNine">
                       <h5 style="color: #ffffff;"><i class="fas fa-plus"></i>  Adanya layanan antar-jemput untuk jumlah pakaian tertentu</h5>
                     </button>
                   </h2>
@@ -127,7 +127,7 @@
                 </div>
                 <div class="accordion-item">
                   <h2 class="accordion-header" id="headingTen">
-                    <button class="accordion-button collapsed" style="background-color: #0000FF;" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTen" aria-expanded="false" aria-controls="collapseTen">
+                    <button class="accordion-button collapsed" style="background-color: #0084ff;" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTen" aria-expanded="false" aria-controls="collapseTen">
                       <h5 style="color: #ffffff;"><i class="fas fa-plus"></i>  Diskon Khusus Untuk Member</h5>
                     </button>
                   </h2>
@@ -139,7 +139,7 @@
                 </div>
                 <div class="accordion-item">
                   <h2 class="accordion-header" id="headingEleven">
-                    <button class="accordion-button collapsed" style="background-color: #0000FF;" type="button" data-bs-toggle="collapse" data-bs-target="#collapseEleven" aria-expanded="false" aria-controls="collapseEleven">
+                    <button class="accordion-button collapsed" style="background-color: #0084ff;" type="button" data-bs-toggle="collapse" data-bs-target="#collapseEleven" aria-expanded="false" aria-controls="collapseEleven">
                       <h5 style="color: #ffffff;"><i class="fas fa-plus"></i>  Cuci bergaransi untuk pakaian yang masih kotor dan tidak rapi (Trendsetter)</h5>
                     </button>
                   </h2>
@@ -151,7 +151,7 @@
                 </div>
                 <div class="accordion-item">
                   <h2 class="accordion-header" id="headingTwelve">
-                    <button class="accordion-button collapsed" style="background-color: #0000FF;" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwelve" aria-expanded="false" aria-controls="collapseTwelve">
+                    <button class="accordion-button collapsed" style="background-color: #0084ff;" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwelve" aria-expanded="false" aria-controls="collapseTwelve">
                       <h5 style="color: #ffffff;"><i class="fas fa-plus"></i>  Kakau Laundry sebagai laundry kiloan terpopuler di Indonesia</h5>
                     </button>
                   </h2>
@@ -163,7 +163,7 @@
                 </div>
                 <div class="accordion-item">
                   <h2 class="accordion-header" id="headingThirteen">
-                    <button class="accordion-button collapsed" style="background-color: #0000FF;" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThirteen" aria-expanded="false" aria-controls="collapseThirteen">
+                    <button class="accordion-button collapsed" style="background-color: #0084ff;" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThirteen" aria-expanded="false" aria-controls="collapseThirteen">
                       <h5 style="color: #ffffff;"><i class="fas fa-plus"></i>  Menggunakan deterjen ramah lingkungan & berteknologi tinggi (Pelopor di Indonesia)</h5>
                     </button>
                   </h2>
@@ -175,7 +175,7 @@
                 </div>
                 <div class="accordion-item">
                   <h2 class="accordion-header" id="headingFourteen">
-                    <button class="accordion-button collapsed" style="background-color: #0000FF;" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFourteen" aria-expanded="false" aria-controls="collapseFourteen">
+                    <button class="accordion-button collapsed" style="background-color: #0084ff;" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFourteen" aria-expanded="false" aria-controls="collapseFourteen">
                       <h5 style="color: #ffffff;"><i class="fas fa-plus"></i>  Laundry Juara peraih 36 Penghargaan nasional dan internasional</h5>
                     </button>
                   </h2>
@@ -187,7 +187,7 @@
                 </div>
                 <div class="accordion-item">
                   <h2 class="accordion-header" id="headingFifteen">
-                    <button class="accordion-button collapsed" style="background-color: #0000FF;" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFifteen" aria-expanded="false" aria-controls="collapseFifteen">
+                    <button class="accordion-button collapsed" style="background-color: #0084ff;" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFifteen" aria-expanded="false" aria-controls="collapseFifteen">
                       <h5 style="color: #ffffff;"><i class="fas fa-plus"></i>  Telah Memiliki izin Franchise / STPW (Surat Tanda Pendaftaran Waralaba)</h5>
                     </button>
                   </h2>
@@ -199,7 +199,7 @@
                 </div>
                 <div class="accordion-item">
                   <h2 class="accordion-header" id="headingSixteen">
-                    <button class="accordion-button collapsed" style="background-color: #0000FF;" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSixteen" aria-expanded="false" aria-controls="collapseSixteen">
+                    <button class="accordion-button collapsed" style="background-color: #0084ff;" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSixteen" aria-expanded="false" aria-controls="collapseSixteen">
                       <h5 style="color: #ffffff;"><i class="fas fa-plus"></i>  Sistem Franchise Teruji dan Mudah Diaplikasikan</h5>
                     </button>
                   </h2>
