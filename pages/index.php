@@ -6,7 +6,6 @@
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" 
     integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
 
-<!-- tetott -->
       <!-- <section> begin ============================-->
   <section class=" features-jumbotron bg-light text-center">
     <div class="top-content">
@@ -15,7 +14,7 @@
        				<div id="carousel-example" class="carousel slide" data-ride="carousel">
        					<div class="carousel-inner">
        						<div class="carousel-item active">
-       							<img src="assets/img/gallery/kakau-laundry-slide.png" class="d-block w-100" alt="img1">
+       							<img src="assets/img/gallery/kakau-laundry-slide.png" class="d-block w-100" alt="First slide">
 								<div class="carousel-caption">
 									<div class="description wow fadeInUp">
 										</p>
@@ -23,14 +22,14 @@
 								</div>
        						</div>
        						<div class="carousel-item">
-       							<img src="assets/img/gallery/kakau-laundry-slide.png" class="d-block w-100" alt="img2">
+       							<img src="assets/img/gallery/kakau-laundry-slide.png" class="d-block w-100" alt="Second slide">
        							<div class="carousel-caption">
 									<div class="description wow fadeInUp">
 									</div>
 								</div>
        						</div>
        						<div class="carousel-item">
-       							<img src="assets/img/gallery/kakau-laundry-slide.png" class="d-block w-100" alt="img3">
+       							<img src="assets/img/gallery/kakau-laundry-slide.png" class="d-block w-100" alt="hird slide">
        							<div class="carousel-caption">
 									<div class="description wow fadeInUp">
 									</div>
