@@ -75,6 +75,7 @@ include("atas.php");
             <div class="media d-block media-feature text-center">
             <i class="fas fa-users m-auto fa-3x text-primary"></i>
               <div class="media-body">
+              <h3 class="mt-0 text-black">Dapat Pelatihan & Dukungan</h3>
                 <p>Mitra mendapatkan pelatihan laundry lengkap & spesifik hingga siap buka (Grand Opening) serta dukungan selama masa kerjasama 5 tahun.</p>
               </div>
             </div>

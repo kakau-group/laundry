@@ -2,7 +2,7 @@
       <div class="text d-flex">
         <h2 class="h3">Daftar Sebagai Member</h2>
         <div class="ml-auto btn-wrap">
-          <a href="get-quote.html" class="btn-cta btn btn-outline-white">Daftar Sekarang</a>
+          <a href="daftar-member.php" class="btn-cta btn btn-outline-white">Daftar Sekarang</a>
         </div>
       </div>
     </section>
