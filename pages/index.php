@@ -149,7 +149,7 @@ include("atas.php");
       <div class="card-body">
       </div>
       <div class="row no-gutters">
-        <div class="col-lg-6 my-auto showcase-text">
+        <div class="col-lg-6 order-lg-1 ">
           <h4><strong>Menggunakan konsep pakaian suci dalam pencucian</strong></h4>
           <p></p>
           <p>Thaharah artinya bersuci atau menghilangkan kotoran. Adapun secara syar’i yang dimaksud ialah menghilangkan najis atau kotoran dengan tata cara yang telah ditentukan oleh syari’at. Kami sangat memahami akan pentingnya proses pencucian menggunakan konsep thaharah untuk menghasilkan pakaian yang bersih lagi suci sehingga dapat terbebas dari najis. Dimana kesucian sangat penting ketika menggunakan pakaian saat beribadah.</p>
