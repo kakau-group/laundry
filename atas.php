@@ -28,10 +28,25 @@
 
     <link href="https://fonts.googleapis.com/css2?family=Viga&display=swap" rel="stylesheet">
 
+    <style>
+    .wabutton {
+      width: 170px;
+      height: 70px;
+      position: fixed;
+      bottom: 20px;
+      right: 20px;
+      z-index: 100;
+    }
+  </style>
+
 
 
   </head>
   <body>
+
+  <a href="https://api.whatsapp.com/send?phone=+6281223606493&text=Permisi, Saya memiliki pertanyaan seputar Kakau Laundry">
+    <img src="https://rizbamart.com/blog/wp-content/uploads/2019/10/HUBUNGI-WA-greenangelica.png" class="wabutton" alt="WhatsApp-Button">
+  </a>
     
     <header role="banner">
       <nav class="navbar navbar-expand-lg navbar-light bg-light">
