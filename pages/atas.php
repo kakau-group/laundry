@@ -67,7 +67,7 @@
   <main class="main">
     <nav class="navbar navbar-expand-lg navbar-light bg-white py-4 pl-0">
       <div class="container"><a class="navbar-brand text-primary font-weight-bold" href="index.php">
-          <h1>Kakau Laundry </h1>
+          <h1><strong>Kakau Laundry </strong></h1>
         </a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
