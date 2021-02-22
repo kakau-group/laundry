@@ -58,7 +58,7 @@
                 <a class="nav-link dropdown-toggle" href="#" id="dropdown04" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Investasi</a>
                 <div class="dropdown-menu" aria-labelledby="dropdown04">
                   <a class="dropdown-item" href="tahapan-menjadi-franchisee.php">Tahapan Menjadi Mitra</a>
-                  <a class="dropdown-item" href="pilihan-paket-investasi.php">Pilih Paket Investasi</a>
+                  <a class="dropdown-item" href="pilihan-paket-investasi.php">Pilihan Paket Investasi</a>
                   <a class="dropdown-item" href="dukungan-sistem-dan-manajemen.php">Dukungan Sistem Manajemen</a>
                 </div>
               </li>
@@ -67,7 +67,7 @@
               </li>
               <li class="nav-item cta-btn2">
                  <a class="d-inline-block px-4 py-2 border" href="daftar-member.php">Daftar Member</a>
-                  <a class="d-inline-block px-4 py-2 border" href="daftar-investor.php">Daftar nvestor</a>
+                  <a class="d-inline-block px-4 py-2 border" href="daftar-investor.php">Daftar Investor</a>
               </li>
             </ul>
           </div>

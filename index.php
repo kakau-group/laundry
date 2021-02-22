@@ -2,34 +2,48 @@
 include("atas.php");
 ?>
     
-    <section class="home-slider owl-carousel">
-      <div class="slider-item" style="background-image: url('img/slider-2.jpg'); ">
-        
-        <div class="container">
-          <div class="row slider-text align-items-center justify-content-center text-center">
-            <div class="col-md-7 col-sm-12 element-animate">
-              <h1 class="mb-4"> Fastest-Growing Construction Company</h1>
-              <p class="mb-0"><a href="#" target="_blank" class="btn btn-primary">Get Started</a></p>
-              
+<section class=" features-jumbotron bg-light text-center">
+  <div class="top-content">
+    <div class="row no-gutters">
+      <div class="col">
+        <div id="carousel-example" class="carousel slide" data-ride="carousel">
+          <div class="carousel-inner">
+            <div class="carousel-item active">
+              <img src="img/slider-1.jpg" style="max-height: 500px;" class="d-block w-100" alt="First slide">
+              <div class="carousel-caption">
+                <div class="description wow fadeInUp">
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div class="carousel-item">
+              <img src="img/slider-1.jpg" style="max-height: 500px;" class="d-block w-100" alt="Second slide">
+              <div class="carousel-caption">
+                <div class="description wow fadeInUp">
+                </div>
+              </div>
+            </div>
+            <div class="carousel-item">
+              <img src="img/slider-1.jpg" style="max-height: 500px;" class="d-block w-100" alt="Third slide">
+              <div class="carousel-caption">
+                <div class="description wow fadeInUp">
+                </div>
+              </div>
             </div>
           </div>
+          <a class="carousel-control-prev" href="#carousel-example" role="button" data-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="sr-only">Previous</span>
+          </a>
+          <a class="carousel-control-next" href="#carousel-example" role="button" data-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="sr-only">Next</span>
+          </a>
         </div>
-
       </div>
-
-      <div class="slider-item" style="background-image: url('img/slider-1.jpg');">
-        <div class="container">
-          <div class="row slider-text align-items-center justify-content-center text-center">
-            <div class="col-md-8 col-sm-12 element-animate">
-              <h1 class="mb-4">We Are Leading The Way Construction Works</h1>
-              <p class="mb-0"><a href="#" target="_blank" class="btn btn-primary">Get Started</a></p>
-            </div>
-          </div>
-        </div>
-        
-      </div>
-
-    </section>
+    </div>
+  </div>
+</section>
     <!-- END slider -->
 
     <section class="section">
@@ -81,10 +95,10 @@ include("atas.php");
               <div class="media d-block media-custom text-left">
                 <img src="img/work_thumb_1.jpg" alt="Image Placeholder" class="img-fluid">
                 <div class="media-body">
-                  <h3 class="mt-0 text-black"><a href="#" class="text-black">Pilihan Paket Investasi</a></h3>
+                  <h3 class="mt-0 text-black"><a href="pilihan-paket-investasi.php" class="text-black">Pilihan Paket Investasi</a></h3>
                   <p>Pahami lebih lanjut perbandingan antara kedua jenis usaha dan paket yang kami tawarkan untuk anda.</p>
                   <p class="clearfix">
-                    <a href="#" class="float-left">Read more</a>
+                    <a href="pilihan-paket-investasi.php" class="float-left">Read more</a>
                   </p>
                 </div>
               </div>
@@ -94,10 +108,10 @@ include("atas.php");
               <div class="media d-block media-custom text-left">
                 <img src="img/work_thumb_3.jpg" alt="Image Placeholder" class="img-fluid">
                 <div class="media-body">
-                  <h3 class="mt-0 text-black"><a href="#" class="text-black">Tahapan Menjadi Franchisee</a></h3>
+                  <h3 class="mt-0 text-black"><a href="tahapan-menjadi-franchisee.php" class="text-black">Tahapan Menjadi Franchisee</a></h3>
                   <p>8 Tahapan menjadi franchisee di Simply Fresh Laundry, dan langkah mudah sukses franchisee.</p>
                   <p class="clearfix">
-                    <a href="#" class="float-left">Read more</a>
+                    <a href="tahapan-menjadi-franchisee.php" class="float-left">Read more</a>
                   </p>
                 </div>
               </div>
@@ -107,10 +121,10 @@ include("atas.php");
               <div class="media d-block media-custom text-left">
                 <img src="img/work_thumb_1.jpg" alt="Image Placeholder" class="img-fluid">
                 <div class="media-body">
-                  <h3 class="mt-0 text-black"><a href="#" class="text-black">Dukungan Sistem Manajemen</a></h3>
+                  <h3 class="mt-0 text-black"><a href="dukungan-sistem-dan-manajemen.php" class="text-black">Dukungan Sistem Manajemen</a></h3>
                   <p>Dukungan Sistem dan Manajemen, serta Sistem Operasional Outlet Simply fresh Laundry.</p>
                   <p class="clearfix">
-                    <a href="#" class="float-left">Read more</a>
+                    <a href="dukungan-sistem-dan-manajemen.php" class="float-left">Read more</a>
                   </p>
                 </div>
               </div>
