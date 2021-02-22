@@ -1,6 +1,6 @@
 <section class="text-center border-top footer-text py-3">
 
-      <p class="mb-1">&copy;2021 Kakau Laundry (fdrs)</p>
+      <p class="mb-1">&copy;2021 Kakau (fdrs)</p>
         <ul class="list-unstyled list-inline mb-6 mb-md-0">
                 <li class="list-inline-item mr-2"><a class="text-decoration-none" href="https://www.facebook.com/KakauLaundry"><img class="list-social-icon" src="assets/img/gallery/facebook.svg" alt="" width="25" /></a></li>
                 <li class="list-inline-item mr-2"><a class="text-decoration-none" href="https://www.instagram.com/kakau_laundry"><img class="list-social-icon" src="assets/img/gallery/instagram.svg" alt="" width="25" /></a></li>

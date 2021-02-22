@@ -77,7 +77,7 @@
             <li class="nav-item dropdown"><a class="nav-link" id="navbarDropdown" href="#" role="button" data-toggle="dropdown" aria-expanded="false">Profil</a>
               <ul class="dropdown-menu navbar-dropdown-menu" aria-labelledby="navbarDropdown">
                 <li><a class="dropdown-item text-secondary p-3 border-bottom" href="mengapa-kakau-laundry.php">Mengapa Kakau Laundry</a></li>
-                <li><a class="dropdown-item text-secondary p-3" href="laundry-kiloan.php">Laundry Kiloan Cepat dan Express </a></li>
+                <li><a class="dropdown-item text-secondary p-3 border-bottom" href="laundry-kiloan.php">Laundry Kiloan Cepat dan Express</a></li>
               </ul>
             </li>
 
