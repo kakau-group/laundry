@@ -20,16 +20,16 @@
           </div>
           <div class="col-md-3">
             <ul class="list-unstyled footer-link">
-              <li><span class="mr-3 d-block">Alamat:</span><span class="text-white">34 Street Name, City Name Here, United States</span></li>
-              <li><span class="mr-3 d-block">Telfon:</span><span class="text-white">+1 242 4942 290</span></li>
+              <li><span class="mr-3 d-block">Alamat:</span><span class="text-white">Jl. Raya Tengah Tani No.59, Dawuan, Kec. Tengah Tani, Kab. Cirebon, Jawa Barat, Indonesia</span></li>
+              <li><span class="mr-3 d-block">Telfon:</span><span class="text-white">+62 823-2131-7255</span></li>
               <li><span class="mr-3 d-block">E-mail:</span><span class="text-white">info@yourdomain.com</span></li>
             </ul>
           </div>
           <div class="col-md-3">
             <h3 class="text-white">Social</h3>
             <ul class="list-unstyled footer-link d-flex footer-social">
-              <li><a href="#" class="p-2"><span class="fa fa-facebook"></span></a></li>
-              <li><a href="#" class="p-2"><span class="fa fa-instagram"></span></a></li>
+              <li><a href="https://www.facebook.com/KakauLaundry" class="p-2"><span class="fa fa-facebook"></span></a></li>
+              <li><a href="https://www.instagram.com/kakau_laundry" class="p-2"><span class="fa fa-instagram"></span></a></li>
             </ul>
           </div>
         </div>

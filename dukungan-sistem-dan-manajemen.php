@@ -61,7 +61,7 @@ include("atas.php");
           </div>
           <div class="col-md-1 order-lg-2"></div>
           <div class="col-md-5 order-lg-3">
-            <h2 class="text-uppercase heading mb-4">We Are 25 Years in Industry</h2>
+            <h2 class="text-uppercase heading mb-4">Pasca Opening</h2>
 
             <ul class="list-unstyled">
                 <ul>
