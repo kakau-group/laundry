@@ -9,7 +9,7 @@ include("atas.php");
         <div id="carousel-example" class="carousel slide" data-ride="carousel">
           <div class="carousel-inner">
             <div class="carousel-item active">
-              <img src="img/slider-1.jpg" style="max-height: 500px;" class="d-block w-100" alt="First slide">
+              <img src="img/kakau-laundry-slide.png" style="max-height: 500px;" class="d-block w-100" alt="First slide">
               <div class="carousel-caption">
                 <div class="description wow fadeInUp">
                   </p>
@@ -17,14 +17,14 @@ include("atas.php");
               </div>
             </div>
             <div class="carousel-item">
-              <img src="img/slider-1.jpg" style="max-height: 500px;" class="d-block w-100" alt="Second slide">
+              <img src="img/kakau-laundry-slide.png" style="max-height: 500px;" class="d-block w-100" alt="Second slide">
               <div class="carousel-caption">
                 <div class="description wow fadeInUp">
                 </div>
               </div>
             </div>
             <div class="carousel-item">
-              <img src="img/slider-1.jpg" style="max-height: 500px;" class="d-block w-100" alt="Third slide">
+              <img src="img/kakau-laundry-slide.png" style="max-height: 500px;" class="d-block w-100" alt="Third slide">
               <div class="carousel-caption">
                 <div class="description wow fadeInUp">
                 </div>
