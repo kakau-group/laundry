@@ -36,6 +36,7 @@ include("atas.php");
 
   <section class="section">
     <div class="card-body">
+    <div class="element-animate">
       <div class="row no-gutters">
           <h2>Kami disini untuk membantu anda</h2>
           <P>Bila ada pertanyaan, masukan, informasi dan kerja sama. Silahkan hubungi kami sesuai jam operasional . Kami dengan senang hati akan membantu sesuai dengan kebutuhan Anda</P>

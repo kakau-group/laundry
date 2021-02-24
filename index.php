@@ -141,6 +141,34 @@ include("atas.php");
 
     <section class="section">
       <div class="container">
+        <div class="row justify-content-center mb-5 element-animate"></div>
+        <div class="row">
+        <div class="element-animate">
+            <div class="text-top">
+              <div class="media-body">
+              <h4 class="text-uppercase heading mb-4">Tahapan Menjadi Mitra Kakau</h4>
+                <blockquote>
+                <p class="card-text">Simply Fresh Laundry adalah Waralaba Laundry kiloan Pertama dan Terbesar di Indonesia. Diawali dari Gang kecil dengan hanya bermodalkan 1 mesin cuci telah membuka 340 outlet di 100 kota di Indonesia dari Aceh sampai Papua.</p>
+
+                <p>Atas prestasinya tersebut tak kurang 36 penghargaan diraihnya, diantaranya meraih Asia Pacific Entrepreneur Award dan Rekor MURI sebgai Waralaba Laundry Kiloan Pertama di Indonesia. Kisah inspiratifnya di tayangkan diberbagai media cetak dan televisi, seperti RCTI, Metro TV, TV One, Kompas, dan lain-lain.</p>
+
+                <p>Simply Fresh sebagai salah satu pelopor laundry kiloan semakin dekat untuk memberikan layanan terbaik kepada pelanggan. Atas upayanya tersebut, Simply Fresh Laundry menjadi laundry kiloan terpopuler di Indonesia (hasil survey Nasional TOM 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017).</p>
+
+                <p>Brand Simply Fresh semakin dikenal masyarakat luas, sehingga tingkat keberhasilan setiap outlet semakin tinggi, inilah keuntungan bergabung bersama Simply Fresh, membuat strategi promosi & informasi menjadi sangat efektif. Ditambah sistem pendampingan berkesinambungan dan STRATEGI RAHASIA BISNIS yang mendukung kesukesan, serta tim riset dan konsultan yang terus membuat Simply Fresh selalu bertumbuh. Mari bergabung dan SUKSES bersama kami!</p>
+                
+                </blockquote>
+              </div>
+            </div>
+          </div>
+
+
+
+        </div>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="container">
         <div class="row justify-content-center mb-5 element-animate">
           <div class="col-md-8 text-center mb-5">
             <h1>Mengapa Memilih Kakau Laundry</h1>
