@@ -1,13 +1,17 @@
-<section class="home-slider  inner-page owl-carousel">
-                <div class="slider-item" style="background-image: url('img/slider-1.jpg');">
-                    
-                    <div class="container">
-                    <div class="row slider-text align-items-center justify-content-center text-center">
-                        <div class="col-md-7 col-sm-12 element-animate">
-                        <h1>Company News</h1>
-                        </div>
-                    </div>
+<section class=" features-jumbotron bg-light text-center">
+  <div class="top-content">
+    <div class="row no-gutters">
+      <div class="col">
+        <div id="carousel-example" class="carousel slide" data-ride="carousel">
+          <div class="carousel-inner">
+            <div class="carousel-item active">
+              <img src="img/kakau-laundry-slide1.png" style="max-height: 500px;" class="d-block w-100" alt="First slide">
+              <div class="carousel-caption">
+                <div class="description wow fadeInUp">
+                  </p>
                 </div>
+              </div>
             </div>
-        </section>
-        <!-- END slider -->
+        </div>
+    </div>
+</section>
