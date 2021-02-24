@@ -17,14 +17,14 @@ include("atas.php");
               </div>
             </div>
             <div class="carousel-item">
-              <img src="img/kakau-laundry-slide.png" style="max-height: 500px;" class="d-block w-100" alt="Second slide">
+              <img src="img/kakau-laundry-slide2.png" style="max-height: 500px;" class="d-block w-100" alt="Second slide">
               <div class="carousel-caption">
                 <div class="description wow fadeInUp">
                 </div>
               </div>
             </div>
             <div class="carousel-item">
-              <img src="img/kakau-laundry-slide.png" style="max-height: 500px;" class="d-block w-100" alt="Third slide">
+              <img src="img/kakau-laundry-slide3.png" style="max-height: 500px;" class="d-block w-100" alt="Third slide">
               <div class="carousel-caption">
                 <div class="description wow fadeInUp">
                 </div>
