@@ -30,6 +30,20 @@ include("atas.php");
                 </div>
               </div>
             </div>
+            <div class="carousel-item">
+              <img src="img/kakau-laundry-slide4.png" style="max-height: 500px;" class="d-block w-100" alt="Fourth slide">
+              <div class="carousel-caption">
+                <div class="description wow fadeInUp">
+                </div>
+              </div>
+            </div>
+            <div class="carousel-item">
+              <img src="img/kakau-laundry-slide5.png" style="max-height: 500px;" class="d-block w-100" alt="Fifth slide">
+              <div class="carousel-caption">
+                <div class="description wow fadeInUp">
+                </div>
+              </div>
+            </div>
           </div>
           <a class="carousel-control-prev" href="#carousel-example" role="button" data-slide="prev">
             <span class="carousel-control-prev-icon" aria-hidden="true"></span>
