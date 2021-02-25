@@ -3,12 +3,12 @@ include("atas.php");
 ?>
 
     <section class="inner-page">
-      <div class="slider-item py-5" style="background-image: url('img/slider-2.jpg');">
+      <div class="slider-item py-5" style="background-image: url('img/kakau-laundry-semuajumbotron.png');">
         
         <div class="container">
           <div class="row slider-text align-items-center justify-content-center text-center">
             <div class="col-md-7 col-sm-12 element-animate">
-              <h1 class="text-white">Our Services</h1>
+              <h1 class="text-white">Pilihan Paket Investasi</h1>
             </div>
           </div>
         </div>

@@ -153,8 +153,10 @@ include("atas.php");
     </section>
     <!-- END section -->
 
+
     <section class="section">
       <div class="container">
+      <div class="card-body">
         <div class="row justify-content-center mb-5 element-animate"></div>
         <div class="row">
         <div class="element-animate">
