@@ -21,7 +21,7 @@
           <div class="col-md-3">
             <ul class="list-unstyled footer-link">
               <li><span class="mr-3 d-block">Alamat:</span><span class="text-white">Jl. Raya Tengah Tani No.59, Dawuan, Kec. Tengah Tani, Kab. Cirebon, Jawa Barat, Indonesia</span></li>
-              <li><span class="mr-3 d-block">Telfon:</span><span class="text-white">+62 823-2131-7255</span></li>
+              <li><span class="mr-3 d-block">Contact:</span><span class="text-white">+62 823-2131-7255</span></li>
               <li><span class="mr-3 d-block">E-mail:</span><span class="text-white">admin@kakau.id</span></li>
             </ul>
           </div>

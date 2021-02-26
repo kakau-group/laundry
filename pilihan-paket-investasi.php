@@ -26,7 +26,7 @@ include("atas.php");
                             <thead>
                             <tr>
                                 <th scope="col" width="300" >Keterangan</th>
-                                <th scope="col" width="300" >Franchise Simply Fresh</th>
+                                <th scope="col" width="300" >Franchise Kakau Laundry</th>
                                 <th scope="col" width="300" >Business Opportunity (BO)</th>
                             </tr>
                             </thead>
@@ -51,7 +51,7 @@ include("atas.php");
                             <tr>
                                 
                                 <td>Initial Support (Pre Opening)</td>
-                                <td>Diberikan konsultasi layout, recruitmen,desain interior sesuai standart outlet Simply Fresh Laundry</td>
+                                <td>Diberikan konsultasi layout, recruitmen,desain interior sesuai standart outlet Kakau Laundry</td>
                                 <td>Awal pembukaan outlet</td>
                             </tr>
 
@@ -73,7 +73,7 @@ include("atas.php");
                             <tr>
                                 
                                 <td>Product & Service</td>
-                                <td>Menggunakan ciri khas dan nama brand Simply Fresh Laundry yang sudah dikenal luas, Standarisasi layout, Harga, Pendampingan berkelanjutan selama proses kerjasama berlangsung, 
+                                <td>Menggunakan ciri khas dan nama brand Kakau Laundry yang sudah dikenal luas, Standarisasi layout, Harga, Pendampingan berkelanjutan selama proses kerjasama berlangsung, 
                                     Adanya Inovasi berkelanjutan dari tim Riset & Development manajemen pusat</td>
                                 <td>Terkerjasama diberikan kebebasan lebih
                                     untuk pemilihan brand, warna, layout dan desain,serta service yang diberikan.</td>
@@ -82,7 +82,7 @@ include("atas.php");
                             <tr>
                                 
                                 <td>System Operational</td>
-                                <td>System operational sesuai dengan SOP standart Simply Fresh Laundry</td>
+                                <td>System operational sesuai dengan SOP standart Kakau Laundry</td>
                                 <td>System operational bersifat umum</td>
                             </tr>
 
@@ -118,7 +118,7 @@ include("atas.php");
                                 <td>Pengembangan</td>
                                 <td>Pengembangan akan terus dilakukan oleh manajemen Pusat yang terdiri
                                      dari banyak divisi seperti IT, Maintenance, Produk, Marketing, Riset, dll dimana hasil
-                                      pengembangan selalu di share-kan kepada franchisee. Team Simply Fresh dibantu konsultan
+                                      pengembangan selalu di share-kan kepada franchisee. Team Kakau dibantu konsultan
                                        Franchise dan Coach Amerika</td>
                                 <td>Pengembangan dilakukan sendiri oleh
                                     Terkerjasama (pemilik outlet BO)</td>

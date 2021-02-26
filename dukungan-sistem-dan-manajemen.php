@@ -16,7 +16,7 @@ include("atas.php");
     </section>
 
     <section class="section">
-    <h2 class="text-center" >Sistem Operasional Outlet Simply fresh Laundry</h2>
+    <h2 class="text-center" >Sistem Operasional Outlet Kakau Laundry</h2>
     <div class="card-body">
     </div>
     <div class="card-body">

@@ -19,12 +19,12 @@ include("atas.php");
       <div class="container">
         <div class="row mb-5">
           <div class="col-md-10 order-lg-1">
-          <h2 class="text-uppercase heading mb-4">Laundry Kiloan Simply Fresh Laundry</h2>
-            <p class="mb-3">Simply Fresh Laundry Kiloan menawarkan jasa layanan cuci dan seterika berdasarkan jumlah berat (Kg) cucian konsumen, sehingga harga yang ditawarkan lebih murah dari jasa layanan laundry kiloan yang sudah ada, namun tetap mengutamakan kualitas. Dengan slogan kami “Laundry Kiloan Kualitas Hotel”.</p>
+          <h2 class="text-uppercase heading mb-4">Laundry Kiloan Kakau Laundry</h2>
+            <p class="mb-3">Kakau Laundry menawarkan jasa layanan cuci dan seterika berdasarkan jumlah berat (Kg) cucian konsumen, sehingga harga yang ditawarkan lebih murah dari jasa layanan laundry kiloan yang sudah ada, namun tetap mengutamakan kualitas.</p>
 
-            <p class="mb-3">Simply Fresh Laundry juga menawarkan kerjasama dalam bentuk waralaba laundry / franchise laundry , dalam penerapanya ada dua dukungan sistem (Pre Operation System dan Pre Opening).</p>
+            <p class="mb-3">Kakau Laundry juga menawarkan kerjasama dalam bentuk waralaba laundry / franchise laundry , dalam penerapanya ada dua dukungan sistem (Pre Operation System dan Pre Opening).</p>
 
-            <p class="mb-3">Berikut ini adalah bentuk dukungan simply fresh laundry kiloan dalam bentuk Pre Operation System apabila menjalankan franchise laundry bersama kami :</p>
+            <p class="mb-3">Berikut ini adalah bentuk dukungan kakau laundry dalam bentuk Pre Operation System apabila menjalankan franchise laundry bersama kami :</p>
 
             <ul class="list-unstyled">
                     <li> Simply Fresh Laundry Kiloan menawarkan jasa layanan cuci dan seterika berdasarkan jumlah berat (Kg) cucian konsumen, sehingga harga yang ditawarkan lebih murah dari

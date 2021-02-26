@@ -20,7 +20,7 @@ include("atas.php");
             <div class="container-fluid p-1">
                 <div class="card-body">
                 </div>
-                <h3 class="judul2 text-center" >Simply Fresh Laundry – Waralaba Laundry Kiloan</h3>
+                <h3 class="judul2 text-center" >Kakau Laundry – Waralaba Laundry Kiloan</h3>
                 <div class="card-body">
                 </div>
                 <div class="row no-gutters">
@@ -30,7 +30,7 @@ include("atas.php");
                         <p>Tahap 1</p>
                         </blockquote>
                         <figcaption class="blockquote-footer">
-                        Presentasi Bisnis Waralaba Simply Fresh Laundry
+                        Presentasi Bisnis Waralaba Kakau Laundry
                         </figcaption>
                         <figcaption class="blockquote-footer">
                         Menginginkan Prospektus Waralaba dan Form Aplikasi
@@ -53,7 +53,7 @@ include("atas.php");
                         <p>Tahap 3</p>
                         </blockquote>
                         <figcaption class="blockquote-footer">
-                        Penjelasan Prospektus dan Konsep Franchise Simply Fresh Laundry
+                        Penjelasan Prospektus dan Konsep Franchise Kakau Laundry
                         </figcaption>
                         <figcaption class="blockquote-footer">
                         Mengembalikan Form Aplikasi Calon Franchisee ke Franchisor

@@ -39,7 +39,7 @@ include("atas.php");
     <div class="element-animate">
       <div class="row no-gutters">
           <h2>Kami disini untuk membantu anda</h2>
-          <P>Bila ada pertanyaan, masukan, informasi dan kerja sama. Silahkan hubungi kami sesuai jam operasional . Kami dengan senang hati akan membantu sesuai dengan kebutuhan Anda</P>
+          <P>Bila ada pertanyaan, silahkan hubungi kami tentang informasi dan kerja sama. Silahkan hubungi kami sesuai jam operasional. Kami dengan senang hati akan membantu sesuai dengan kebutuhan Anda</P>
           <div class="card-body">
             <div class="row no-gutters">
               <div class="col-lg-6 order-lg-1 text-center">
@@ -65,7 +65,7 @@ include("atas.php");
                 <p></p>
                 <h5>Kantor Pusat</h5>
                 <P>Perumahan Bumi Asri Dawuan Blok A2 No.22, Tengah Tani
-                  Cirebon, 45153 Indonesia</P>
+                  Cirebon, Indonesia</P>
               </div>
               <div class="col-lg-6 order-lg-1 my-auto showcase-text text-center">
                 <span class="text-primary"><i class="icon fas fa-store m-auto fa-3x"></i></span>

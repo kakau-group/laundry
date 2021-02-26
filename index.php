@@ -80,7 +80,7 @@ include("atas.php");
             <i class="fas fa-tshirt m-auto fa-3x text-primary"></i>
               <div class="media-body">
                 <h3 class="mt-0 text-black">Alat & Bahan Baku Terbaik</h3>
-                <p>Mitra mendapatkan alat, bahan baku & perlengkapan terbaik dari Simply Fresh Laundry.</p>
+                <p>Mitra mendapatkan alat, bahan baku & perlengkapan terbaik dari Kakau Laundry.</p>
               </div>
             </div>
           </div>
@@ -108,7 +108,7 @@ include("atas.php");
 
             <div>
               <div class="media d-block media-custom text-left">
-                <img src="img/work_thumb_1.jpg" alt="Image Placeholder" class="img-fluid">
+                <img src="img/pilihan-paket-investasi.png" alt="Image Placeholder" class="img-fluid">
                 <div class="media-body">
                   <h3 class="mt-0 text-black"><a href="pilihan-paket-investasi.php" class="text-black">Pilihan Paket Investasi</a></h3>
                   <p>Pahami lebih lanjut perbandingan antara kedua jenis usaha dan paket yang kami tawarkan untuk anda.</p>
@@ -121,7 +121,7 @@ include("atas.php");
             
             <div>
               <div class="media d-block media-custom text-left">
-                <img src="img/work_thumb_3.jpg" alt="Image Placeholder" class="img-fluid">
+                <img src="img/tahapan-menjadi-franchise.png" alt="Image Placeholder" class="img-fluid">
                 <div class="media-body">
                   <h3 class="mt-0 text-black"><a href="tahapan-menjadi-franchisee.php" class="text-black">Tahapan Menjadi Franchisee</a></h3>
                   <p>8 Tahapan menjadi franchisee di Simply Fresh Laundry, dan langkah mudah sukses franchisee.</p>
@@ -134,7 +134,7 @@ include("atas.php");
 
             <div>
               <div class="media d-block media-custom text-left">
-                <img src="img/work_thumb_1.jpg" alt="Image Placeholder" class="img-fluid">
+                <img src="img/dukunagan-sistem-manajemen.png" alt="Image Placeholder" class="img-fluid">
                 <div class="media-body">
                   <h3 class="mt-0 text-black"><a href="dukungan-sistem-dan-manajemen.php" class="text-black">Dukungan Sistem Manajemen</a></h3>
                   <p>Dukungan Sistem dan Manajemen, serta Sistem Operasional Outlet Simply fresh Laundry.</p>
@@ -162,9 +162,9 @@ include("atas.php");
         <div class="element-animate">
             <div class="text-top">
               <div class="media-body">
-              <h4 class="text-uppercase heading mb-4">Tahapan Menjadi Mitra Kakau</h4>
+              <h4 class="text-uppercase heading mb-4">Tahapan Menjadi Mitra Kakau Laundry</h4>
                 <blockquote>
-                <p class="card-text">Simply Fresh Laundry adalah Waralaba Laundry kiloan Pertama dan Terbesar di Indonesia. Diawali dari Gang kecil dengan hanya bermodalkan 1 mesin cuci telah membuka 340 outlet di 100 kota di Indonesia dari Aceh sampai Papua.</p>
+                <p class="card-text">Kakau Laundry adalah Waralaba Laundry kiloan Pertama dan Terbesar di Indonesia. Diawali dari Gang kecil dengan hanya bermodalkan 1 mesin cuci telah membuka 340 outlet di 100 kota di Indonesia dari Aceh sampai Papua.</p>
 
                 <p>Atas prestasinya tersebut tak kurang 36 penghargaan diraihnya, diantaranya meraih Asia Pacific Entrepreneur Award dan Rekor MURI sebgai Waralaba Laundry Kiloan Pertama di Indonesia. Kisah inspiratifnya di tayangkan diberbagai media cetak dan televisi, seperti RCTI, Metro TV, TV One, Kompas, dan lain-lain.</p>
 
@@ -209,7 +209,7 @@ include("atas.php");
               <div class="media-body">
               <h4 class="text-uppercase heading mb-4">Waralaba laundry pertama dan TERBESAR di Indonesia</h4>
                 <blockquote>
-                <p class="mb-5">Simply Fresh Laundry adalah peraih REKOR MURI sebagai Waralaba Laundry Kiloan Pertama di Indonesia. Menjadi laundry yang TERBESAR dengan Terbukti eksis membuka lebih dari 330 gerai outlet workshop (bukan outlet penerimaan/keagenan) yang tersebar di seluruh kota-kota besar di Indonesia. Merek Simply Fresh Laundry telah dikenal masyarakat luas, inilah keuntungan franchise Simply Fresh Laundry membuat strategi promosi & informasi menjadi sangat efektif.</p>  
+                <p class="mb-5">Kakau Laundry adalah peraih REKOR MURI sebagai Waralaba Laundry Kiloan Pertama di Indonesia. Menjadi laundry yang TERBESAR dengan Terbukti eksis membuka lebih dari 330 gerai outlet workshop (bukan outlet penerimaan/keagenan) yang tersebar di seluruh kota-kota besar di Indonesia. Merek kakau Laundry telah dikenal masyarakat luas, inilah keuntungan franchise Simply Fresh Laundry membuat strategi promosi & informasi menjadi sangat efektif.</p>  
                 </blockquote>
               </div>
             </div>
