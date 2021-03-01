@@ -14,7 +14,7 @@
               <p>Risma</p>
               <div class="media-body">
                 <blockquote>
-                  <p>&ldquo;Harganya murah, cepet terus gartis antar jemput. Seneng banget deh laundry disini jadi langganan.&rdquo;</p>  
+                  <p>&ldquo;Harganya murah, cepet terus gratis antar jemput. Seneng banget deh laundry disini jadi langganan.&rdquo;</p>  
                 </blockquote>
 
               </div>
